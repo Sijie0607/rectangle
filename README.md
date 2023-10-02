@@ -1,2 +1,0 @@
-# rectangle
-Calucate a rectangle
